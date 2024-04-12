@@ -5,5 +5,7 @@ The model used in this case is the [LLama2-7B-Chat](https://huggingface.co/TheBl
 from Hugging Face.
 
 ![Sample 1](/images/sample-1.png)
+
 ![Sample 2](/images/sample-2.png)
+
 ![Sample 3](/images/sample-3.png)
