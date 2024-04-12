@@ -11,9 +11,9 @@ from Hugging Face.
     pip install -r requirements.txt 
    ```
 4. Run the application
-  ```
-  streamlit run blog_generation.py 
-  ```
+   ```
+   streamlit run blog_generation.py 
+   ```
 ## Sample 1
 
 ![Sample 1](/images/sample-1.png)
